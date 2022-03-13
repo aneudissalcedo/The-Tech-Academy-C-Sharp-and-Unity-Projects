@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.genruntimeconfig.cache
