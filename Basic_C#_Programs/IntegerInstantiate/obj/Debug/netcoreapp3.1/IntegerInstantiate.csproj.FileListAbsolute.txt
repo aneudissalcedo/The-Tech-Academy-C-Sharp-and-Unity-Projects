@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\bin\Debug\netcoreapp3.1\IntegerInstantiate.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\IntegerInstantiate\obj\Debug\netcoreapp3.1\IntegerInstantiate.genruntimeconfig.cache
