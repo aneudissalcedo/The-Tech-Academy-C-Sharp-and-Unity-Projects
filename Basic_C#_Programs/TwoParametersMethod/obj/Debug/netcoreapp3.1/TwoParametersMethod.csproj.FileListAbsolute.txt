@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\bin\Debug\netcoreapp3.1\TwoParametersMethod.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\TwoParametersMethod\obj\Debug\netcoreapp3.1\TwoParametersMethod.genruntimeconfig.cache
