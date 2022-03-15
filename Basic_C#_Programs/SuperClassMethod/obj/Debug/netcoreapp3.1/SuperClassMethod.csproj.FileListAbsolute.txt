@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\bin\Debug\netcoreapp3.1\SuperClassMethod.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\SuperClassMethod\obj\Debug\netcoreapp3.1\SuperClassMethod.genruntimeconfig.cache
