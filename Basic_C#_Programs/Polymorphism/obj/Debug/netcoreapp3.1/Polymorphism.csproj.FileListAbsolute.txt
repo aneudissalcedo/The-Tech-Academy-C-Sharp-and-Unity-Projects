@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
