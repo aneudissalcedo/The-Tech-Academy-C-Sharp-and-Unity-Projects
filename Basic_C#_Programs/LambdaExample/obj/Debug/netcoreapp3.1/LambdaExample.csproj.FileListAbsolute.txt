@@ -1,0 +1,14 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\bin\Debug\netcoreapp3.1\LambdaExample.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\LambdaExample\obj\Debug\netcoreapp3.1\LambdaExample.genruntimeconfig.cache
