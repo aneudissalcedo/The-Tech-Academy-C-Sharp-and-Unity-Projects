@@ -26,7 +26,9 @@ namespace LambdaExample
             {
                 if (emp.FirstName == "Joe")
                 {
-                    Console.WriteLine("ID = " + emp.EmployeeID + ", " + emp.FirstName + " " + emp.LastName);
+                    var newEmployees = emp;
+                    Console.WriteLine("ID = " + newEmployees.EmployeeID 
+                        + ", " + newEmployees.FirstName + " " + newEmployees.LastName);
                 }
             }
             
