@@ -1,0 +1,13 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DateTimeExample.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Assignments\Git\C# and Unity Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DateTimeExample.genruntimeconfig.cache
